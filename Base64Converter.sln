@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64Converter", "Base64Converter\Base64Converter.csproj", "{F7641F20-59C9-4268-A596-776517A89423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7641F20-59C9-4268-A596-776517A89423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7641F20-59C9-4268-A596-776517A89423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7641F20-59C9-4268-A596-776517A89423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7641F20-59C9-4268-A596-776517A89423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF408DF-C2C3-4F55-8EF9-7DE52B586152}
+	EndGlobalSection
+EndGlobal
